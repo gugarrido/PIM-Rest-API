@@ -1,2 +1,3 @@
 # PIM-Rest-API
-PIM API Scripts
+
+In this Repository you will find examples to use Thycotic Secret Server API
